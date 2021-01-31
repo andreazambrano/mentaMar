@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 104348,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/mentaMar",
+		"/var/www/html/mentaMarvzla"
+	],
+	"file_history":
+	[
+		"/var/www/html/mentaMar/shop-product-extra-content.html",
+		"/var/www/html/mentaMar/shop-product-fullwidth.html",
+		"/var/www/html/mentaMar/about-us-2.html",
+		"/var/www/html/mentaMar/about-us.html",
+		"/var/www/html/mentaMar/blog-full-then-grid-full-width.html",
+		"/var/www/html/mentaMar/blog-full-then-grid-left-sidebar.html",
+		"/var/www/html/mentaMar/blog-full-then-grid-right-sidebar.html",
+		"/var/www/html/mentaMar/blog-grid-full-width.html",
+		"/var/www/html/mentaMar/blog-grid-left-sidebar.html",
+		"/var/www/html/mentaMar/blog-grid-right-sidebar.html",
+		"/var/www/html/mentaMar/blog-list-full-width.html",
+		"/var/www/html/mentaMar/blog-list-left-sidebar.html",
+		"/var/www/html/mentaMar/blog-list-right-sidebar.html",
+		"/var/www/html/mentaMar/blog-masonry-full-width.html",
+		"/var/www/html/mentaMar/blog-masonry-left-sidebar.html",
+		"/var/www/html/mentaMar/blog-masonry-right-sidebar.html",
+		"/var/www/html/mentaMar/blog-single-post-full-width.html",
+		"/var/www/html/mentaMar/blog-single-post-left-sidebar.html",
+		"/var/www/html/mentaMar/blog-single-post-right-sidebar.html",
+		"/var/www/html/mentaMar/blog-single-post-right-sidebar2.html",
+		"/var/www/html/mentaMar/blog-standard-full-width.html",
+		"/var/www/html/mentaMar/blog-standard-left-sidebar.html",
+		"/var/www/html/mentaMar/blog-standard-right-sidebar.html",
+		"/var/www/html/mentaMar/blog.html",
+		"/var/www/html/mentaMar/contact-us.html",
+		"/var/www/html/mentaMar/element-bestselling-products.html",
+		"/var/www/html/mentaMar/element-blog-posts.html",
+		"/var/www/html/mentaMar/element-button.html",
+		"/var/www/html/mentaMar/element-countdown-timer.html",
+		"/var/www/html/mentaMar/element-faq.html",
+		"/var/www/html/mentaMar/element-featured-products.html",
+		"/var/www/html/mentaMar/element-google-maps.html",
+		"/var/www/html/mentaMar/element-icon-box.html",
+		"/var/www/html/mentaMar/element-instagram.html",
+		"/var/www/html/mentaMar/element-mailchimp-form.html",
+		"/var/www/html/mentaMar/element-product-attributes.html",
+		"/var/www/html/mentaMar/element-product-categories.html",
+		"/var/www/html/mentaMar/element-product-sliders.html",
+		"/var/www/html/mentaMar/element-product-tabs.html",
+		"/var/www/html/mentaMar/element-product-widget.html",
+		"/var/www/html/mentaMar/element-recent-products.html",
+		"/var/www/html/mentaMar/element-sale-products.html",
+		"/var/www/html/mentaMar/element-team-member.html",
+		"/var/www/html/mentaMar/element-testimonials.html",
+		"/var/www/html/mentaMar/element-top-rated-products.html",
+		"/var/www/html/mentaMar/faq.html",
+		"/var/www/html/mentaMar/index-accessories.html",
+		"/var/www/html/mentaMar/index-collection.html",
+		"/var/www/html/mentaMar/index-concept.html",
+		"/var/www/html/mentaMar/index-cosmetics.html",
+		"/var/www/html/mentaMar/index-creative.html",
+		"/var/www/html/mentaMar/index-decor.html",
+		"/var/www/html/mentaMar/index-essentials.html",
+		"/var/www/html/mentaMar/index-fashion.html",
+		"/var/www/html/mentaMar/index-furniture.html",
+		"/var/www/html/mentaMar/index-instagram.html",
+		"/var/www/html/mentaMar/index-lookbook.html",
+		"/var/www/html/mentaMar/index-perfumes.html",
+		"/var/www/html/mentaMar/index-shoppable.html",
+		"/var/www/html/mentaMar/index-smart.html",
+		"/var/www/html/mentaMar/index-trending.html",
+		"/var/www/html/mentaMar/index-wearables.html",
+		"/var/www/html/mentaMar/index.html",
+		"/var/www/html/mentaMar/shop-by-brand.html",
+		"/var/www/html/mentaMar/shop-cart.html",
+		"/var/www/html/mentaMar/shop-checkout.html",
+		"/var/www/html/mentaMar/shop-customer-login.html",
+		"/var/www/html/mentaMar/shop-fullwidth-left-sidebar.html",
+		"/var/www/html/mentaMar/shop-fullwidth-no-sidebar.html",
+		"/var/www/html/mentaMar/shop-fullwidth-no-space.html",
+		"/var/www/html/mentaMar/shop-fullwidth-right-sidebar.html",
+		"/var/www/html/mentaMar/shop-left-sidebar.html",
+		"/var/www/html/mentaMar/shop-no-sidebar.html",
+		"/var/www/html/mentaMar/shop-order-tracking.html",
+		"/var/www/html/mentaMar/shop-product-basic.html",
+		"/var/www/html/mentaMar/shop-product-bought-together.html",
+		"/var/www/html/mentaMar/shop-product-sticky-details.html",
+		"/var/www/html/mentaMar/shop-product-variation-image.html",
+		"/var/www/html/mentaMar/shop-product-with-background.html",
+		"/var/www/html/mentaMar/shop-product-with-sidebar.html",
+		"/var/www/html/mentaMar/shop-right-sidebar.html",
+		"/var/www/html/mentaMar/shop-wishlist.html",
+		"/var/www/html/mentaMarvzla/index.html",
+		"/var/www/html/mentaMar/404.html",
+		"/var/www/html/mentaMar/coming-soon.html",
+		"/var/www/html/meridacoins/index.html",
+		"/var/www/html/meridacoins/home-01.html",
+		"/var/www/html/paygateway/roysha/home-01.html",
+		"/var/www/html/paygateway/roysha/css/roysha-icons.css",
+		"/var/www/html/paygateway/roysha/admin/dashboard.html",
+		"/var/www/html/paygateway/roysha/admin/deposit-money-confirm.html",
+		"/var/www/html/paygateway/roysha/admin/deposit-money-success.html",
+		"/var/www/html/paygateway/roysha/admin/deposit-money.html",
+		"/var/www/html/paygateway/roysha/admin/order-card.html",
+		"/var/www/html/paygateway/roysha/admin/pay-contact.html",
+		"/var/www/html/paygateway/roysha/admin/profile-bank.html",
+		"/var/www/html/paygateway/roysha/admin/profile-cards.html",
+		"/var/www/html/paygateway/roysha/admin/profile-notifications.html",
+		"/var/www/html/paygateway/roysha/admin/profile.html",
+		"/var/www/html/paygateway/roysha/admin/request-money-confirm.html",
+		"/var/www/html/paygateway/roysha/admin/request-money-new-payer.html",
+		"/var/www/html/paygateway/roysha/admin/request-money-payment.html",
+		"/var/www/html/paygateway/roysha/admin/request-money-success.html",
+		"/var/www/html/paygateway/roysha/admin/request-money.html",
+		"/var/www/html/paygateway/roysha/admin/send-money-confirm.html",
+		"/var/www/html/paygateway/roysha/admin/send-money-details.html",
+		"/var/www/html/paygateway/roysha/admin/send-money-success.html",
+		"/var/www/html/paygateway/roysha/admin/send-money.html",
+		"/var/www/html/paygateway/roysha/admin/transactions-details.html",
+		"/var/www/html/paygateway/roysha/admin/transactions.html",
+		"/var/www/html/paygateway/roysha/admin/withdraw-money-balance.html",
+		"/var/www/html/paygateway/roysha/admin/withdraw-money-confirm.html",
+		"/var/www/html/paygateway/roysha/admin/withdraw-money-success.html",
+		"/var/www/html/paygateway/roysha/admin/withdraw-money.html",
+		"/var/www/html/paygateway/roysha/home-02.html",
+		"/var/www/html/paygateway/roysha/home-03.html",
+		"/var/www/html/paygateway/roysha/home-04.html",
+		"/var/www/html/paygateway/roysha/how-it-works-paybills.html",
+		"/var/www/html/paygateway/roysha/how-it-works-receive.html",
+		"/var/www/html/paygateway/roysha/how-it-works-send.html",
+		"/var/www/html/paygateway/roysha/index.html",
+		"/var/www/html/paygateway/roysha/landing-page-ecommerce.html",
+		"/var/www/html/paygateway/roysha/landing-page-receive.html",
+		"/var/www/html/paygateway/roysha/landing-page-send.html",
+		"/var/www/html/paygateway/roysha/login.html",
+		"/var/www/html/paygateway/roysha/signup.html",
+		"/var/www/html/paygateway/roysha/404.html",
+		"/var/www/html/paygateway/roysha/about-01.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/html/mentaMar",
+			"/var/www/html/mentaMarvzla",
+			"/var/www/html/mentaMar",
+			"/var/www/html/paygateway/roysha",
+			"/var/www/html/paygateway/roysha/admin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" LOAD MORE ...",
+			"mens",
+			"men",
+			"Junior Marquez",
+			"junior",
+			"http://juniormarquez.com.ve",
+			"Junior Marquez",
+			"dClothe - Personal Shopper",
+			"Junior Marquez",
+			"junior",
+			"cole",
+			"revi",
+			"simpli",
+			"revi",
+			"sli",
+			"si",
+			"siente",
+			"dClothe - Personal Shopper ",
+			"home-04",
+			".html",
+			"home-03",
+			".html",
+			"instala",
+			"end_amount",
+			"home-01.html",
+			"download",
+			"themeies",
+			"custom",
+			"find lo",
+			"Why Send Money with Our Payment Service",
+			"send a",
+			"?h1me7s",
+			"roysha-amount",
+			"send",
+			"Roysha- Money Transfer and Online Payments HTML Template"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Buckapi",
+			"http://buckapi.com",
+			"Menta Mar | Ropa para dama",
+			"Buckapi",
+			"Menta-Mar Ropa para damas",
+			"MeridaCoins - Intercambia tu dinero libremente"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84743,
+								84743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shop-product-with-background.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
