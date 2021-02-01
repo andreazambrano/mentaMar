@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 104348,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -48,11 +40,46 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/mentaMar",
-		"/var/www/html/mentaMarvzla"
+		"/var/www/html/ultrabikexZonaFit"
 	],
 	"file_history":
 	[
+		"/var/www/html/ultrabikexZonaFit/index.html",
+		"/var/www/html/ultrabikexZonaFit/modals.html",
+		"/var/www/html/ultrabikexZonaFit/pagination-progressbar.html",
+		"/var/www/html/ultrabikexZonaFit/payment.html",
+		"/var/www/html/ultrabikexZonaFit/popover-list.html",
+		"/var/www/html/ultrabikexZonaFit/product-details.html",
+		"/var/www/html/ultrabikexZonaFit/shop.html",
+		"/var/www/html/ultrabikexZonaFit/shopping-cart.html",
+		"/var/www/html/ultrabikexZonaFit/signin.html",
+		"/var/www/html/ultrabikexZonaFit/signup.html",
+		"/var/www/html/ultrabikexZonaFit/tables.html",
+		"/var/www/html/ultrabikexZonaFit/trails.html",
+		"/var/www/html/ultrabikexZonaFit/typography.html",
+		"/var/www/html/ultrabikexZonaFit/404.html",
+		"/var/www/html/ultrabikexZonaFit/about.html",
+		"/var/www/html/ultrabikexZonaFit/accordion.html",
+		"/var/www/html/ultrabikexZonaFit/alert-cookie.html",
+		"/var/www/html/ultrabikexZonaFit/blog-details.html",
+		"/var/www/html/ultrabikexZonaFit/blog.html",
+		"/var/www/html/ultrabikexZonaFit/button.html",
+		"/var/www/html/ultrabikexZonaFit/card.html",
+		"/var/www/html/ultrabikexZonaFit/checkout.html",
+		"/var/www/html/ultrabikexZonaFit/coming-soon.html",
+		"/var/www/html/ultrabikexZonaFit/contact.html",
+		"/var/www/html/ultrabikexZonaFit/countdown-menu.html",
+		"/var/www/html/ultrabikexZonaFit/event.html",
+		"/var/www/html/ultrabikexZonaFit/footer.html",
+		"/var/www/html/ultrabikexZonaFit/form.html",
+		"/var/www/html/ultrabikexZonaFit/header-style.html",
+		"/var/www/html/ultrabikexZonaFit/icon.html",
+		"/var/www/html/ultrabikexZonaFit/index-2.html",
+		"/var/www/html/ultrabikexZonaFit/index-3.html",
+		"/var/www/html/mentaMar/shop-left-sidebar.html",
+		"/var/www/html/mentaMar/index.html",
+		"/var/www/html/mentaMar/shop-product-basic.html",
+		"/var/www/html/mentaMar/shop-cart.html",
 		"/var/www/html/mentaMar/shop-product-extra-content.html",
 		"/var/www/html/mentaMar/shop-product-fullwidth.html",
 		"/var/www/html/mentaMar/about-us-2.html",
@@ -115,19 +142,15 @@
 		"/var/www/html/mentaMar/index-smart.html",
 		"/var/www/html/mentaMar/index-trending.html",
 		"/var/www/html/mentaMar/index-wearables.html",
-		"/var/www/html/mentaMar/index.html",
 		"/var/www/html/mentaMar/shop-by-brand.html",
-		"/var/www/html/mentaMar/shop-cart.html",
 		"/var/www/html/mentaMar/shop-checkout.html",
 		"/var/www/html/mentaMar/shop-customer-login.html",
 		"/var/www/html/mentaMar/shop-fullwidth-left-sidebar.html",
 		"/var/www/html/mentaMar/shop-fullwidth-no-sidebar.html",
 		"/var/www/html/mentaMar/shop-fullwidth-no-space.html",
 		"/var/www/html/mentaMar/shop-fullwidth-right-sidebar.html",
-		"/var/www/html/mentaMar/shop-left-sidebar.html",
 		"/var/www/html/mentaMar/shop-no-sidebar.html",
 		"/var/www/html/mentaMar/shop-order-tracking.html",
-		"/var/www/html/mentaMar/shop-product-basic.html",
 		"/var/www/html/mentaMar/shop-product-bought-together.html",
 		"/var/www/html/mentaMar/shop-product-sticky-details.html",
 		"/var/www/html/mentaMar/shop-product-variation-image.html",
@@ -148,39 +171,7 @@
 		"/var/www/html/paygateway/roysha/admin/deposit-money.html",
 		"/var/www/html/paygateway/roysha/admin/order-card.html",
 		"/var/www/html/paygateway/roysha/admin/pay-contact.html",
-		"/var/www/html/paygateway/roysha/admin/profile-bank.html",
-		"/var/www/html/paygateway/roysha/admin/profile-cards.html",
-		"/var/www/html/paygateway/roysha/admin/profile-notifications.html",
-		"/var/www/html/paygateway/roysha/admin/profile.html",
-		"/var/www/html/paygateway/roysha/admin/request-money-confirm.html",
-		"/var/www/html/paygateway/roysha/admin/request-money-new-payer.html",
-		"/var/www/html/paygateway/roysha/admin/request-money-payment.html",
-		"/var/www/html/paygateway/roysha/admin/request-money-success.html",
-		"/var/www/html/paygateway/roysha/admin/request-money.html",
-		"/var/www/html/paygateway/roysha/admin/send-money-confirm.html",
-		"/var/www/html/paygateway/roysha/admin/send-money-details.html",
-		"/var/www/html/paygateway/roysha/admin/send-money-success.html",
-		"/var/www/html/paygateway/roysha/admin/send-money.html",
-		"/var/www/html/paygateway/roysha/admin/transactions-details.html",
-		"/var/www/html/paygateway/roysha/admin/transactions.html",
-		"/var/www/html/paygateway/roysha/admin/withdraw-money-balance.html",
-		"/var/www/html/paygateway/roysha/admin/withdraw-money-confirm.html",
-		"/var/www/html/paygateway/roysha/admin/withdraw-money-success.html",
-		"/var/www/html/paygateway/roysha/admin/withdraw-money.html",
-		"/var/www/html/paygateway/roysha/home-02.html",
-		"/var/www/html/paygateway/roysha/home-03.html",
-		"/var/www/html/paygateway/roysha/home-04.html",
-		"/var/www/html/paygateway/roysha/how-it-works-paybills.html",
-		"/var/www/html/paygateway/roysha/how-it-works-receive.html",
-		"/var/www/html/paygateway/roysha/how-it-works-send.html",
-		"/var/www/html/paygateway/roysha/index.html",
-		"/var/www/html/paygateway/roysha/landing-page-ecommerce.html",
-		"/var/www/html/paygateway/roysha/landing-page-receive.html",
-		"/var/www/html/paygateway/roysha/landing-page-send.html",
-		"/var/www/html/paygateway/roysha/login.html",
-		"/var/www/html/paygateway/roysha/signup.html",
-		"/var/www/html/paygateway/roysha/404.html",
-		"/var/www/html/paygateway/roysha/about-01.html"
+		"/var/www/html/paygateway/roysha/admin/profile-bank.html"
 	],
 	"find":
 	{
@@ -191,6 +182,7 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"/var/www/html/ultrabikexZonaFit",
 			"/var/www/html/mentaMar",
 			"/var/www/html/mentaMarvzla",
 			"/var/www/html/mentaMar",
@@ -203,6 +195,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"codingeek",
+			"Billa Trail - Biking HTML Template",
+			"compare",
+			"<div class=\"single-product__floating-icons\">\n										<span class=\"wishlist\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Add to wishlist\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-android-favorite-outline\"></i></a></span>\n										<span class=\"compare\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Compare\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-ios-shuffle-strong\"></i></a></span>\n										<span class=\"quickview\"><a  class=\"cd-trigger\" href=\"shop-left-sidebar.html#qv-1\" data-tippy=\"Quick View\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\"  ><i class=\"ion-ios-search-strong\"></i></a></span>\n									</div>",
+			"									<div class=\"single-product__floating-icons\">\n										<span class=\"wishlist\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Add to wishlist\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-android-favorite-outline\"></i></a></span>\n			\n										<span class=\"compare\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Compare\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-ios-shuffle-strong\"></i></a></span>\n			\n										<span class=\"quickview\"><a class=\"cd-trigger\" href=\"shop-left-sidebar.html#qv-1\"  data-tippy=\"Quick View\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\"  ><i class=\"ion-ios-search-strong\"></i></a></span>\n									</div>\n",
+			"<div class=\"single-product__floating-icons\">\n										<span class=\"wishlist\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Add to wishlist\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-android-favorite-outline\"></i></a></span>\n			\n										<span class=\"compare\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Compare\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-ios-shuffle-strong\"></i></a></span>\n			\n										<span class=\"quickview\"><a class=\"cd-trigger\" href=\"shop-left-sidebar.html#qv-1\"  data-tippy=\"Quick View\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\"  ><i class=\"ion-ios-search-strong\"></i></a></span>\n									</div>",
+			"<div class=\"single-product__floating-icons\">\n										<span class=\"wishlist\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Add to wishlist\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-android-favorite-outline\"></i></a></span>\n										<span class=\"compare\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Compare\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\" ><i class=\"ion-ios-shuffle-strong\"></i></a></span>\n										<span class=\"quickview\"><a class=\"cd-trigger\" href=\"shop-left-sidebar.html#qv-1\"  data-tippy=\"Quick View\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"left\"  ><i class=\"ion-ios-search-strong\"></i></a></span>\n									</div>",
+			"<div class=\"single-product__floating-icons\">\n											<span class=\"wishlist\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Add to wishlist\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\" ><i class=\"ion-android-favorite-outline\"></i></a></span>\n				\n											<span class=\"compare\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Compare\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\" ><i class=\"ion-ios-shuffle-strong\"></i></a></span>\n				\n											<span class=\"quickview\"><a class=\"cd-trigger\" href=\"shop-left-sidebar.html#qv-1\"  data-tippy=\"Quick View\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\"  ><i class=\"ion-ios-search-strong\"></i></a></span>\n										</div>",
+			"										<div class=\"single-product__floating-icons\">\n											<span class=\"wishlist\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Add to wishlist\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\" ><i class=\"ion-android-favorite-outline\"></i></a></span>\n				\n											<span class=\"compare\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Compare\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\" ><i class=\"ion-ios-shuffle-strong\"></i></a></span>\n				\n											<span class=\"quickview\"><a class=\"cd-trigger\" href=\"shop-left-sidebar.html#qv-1\"  data-tippy=\"Quick View\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\"  ><i class=\"ion-ios-search-strong\"></i></a></span>\n										</div>\n",
+			"<div class=\"single-product__floating-icons\">\n											<span class=\"wishlist\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Add to wishlist\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\" ><i class=\"ion-android-favorite-outline\"></i></a></span>\n				\n											<span class=\"compare\"><a href=\"shop-left-sidebar.html#\" data-tippy=\"Compare\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\" ><i class=\"ion-ios-shuffle-strong\"></i></a></span>\n				\n											<span class=\"quickview\"><a class=\"cd-trigger\" href=\"shop-left-sidebar.html#qv-1\"  data-tippy=\"Quick View\" data-tippy-inertia=\"true\" data-tippy-animation=\"shift-away\" data-tippy-delay=\"50\" data-tippy-arrow=\"true\" data-tippy-theme = \"sharpborder\" data-tippy-placement = \"bottom\"  ><i class=\"ion-ios-search-strong\"></i></a></span>\n										</div>",
+			"2020",
+			" single-icon",
+			"search",
+			"fur",
+			"pink",
 			" LOAD MORE ...",
 			"mens",
 			"men",
@@ -245,6 +252,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Ultrabikex Zona Fit ",
 			"Buckapi",
 			"http://buckapi.com",
 			"Menta Mar | Ropa para dama",
@@ -261,45 +269,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 104348,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								84743,
-								84743
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 33335.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -336,7 +313,7 @@
 	"project": "shop-product-with-background.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -374,7 +351,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 304.0,
+	"side_bar_width": 210.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
